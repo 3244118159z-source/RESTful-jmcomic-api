@@ -149,3 +149,6 @@ vercel-flask-jmcomic-api/
 ---
 
 如果这个项目对你有帮助，请给个 ⭐ Star 支持一下！
+# 三平台部署更新
+
+业务核心、并发图片还原、缓存/资源参数及部署步骤见 [部署说明](docs/DEPLOYMENT.md)。

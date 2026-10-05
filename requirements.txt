@@ -1,3 +1,6 @@
-Flask==3.0.3
-requests==2.28.0
+Flask>=3.0,<4
+requests>=2.32,<3
 jmcomic==2.6.18
+Pillow>=12,<13
+redis>=5,<7
+gunicorn>=23,<26; sys_platform != 'win32'
